@@ -1,0 +1,11 @@
+name: nginx
+description: A basic NGINX HTTP server
+version: 0.1.0
+keywords:
+    - nginx
+home: https://github.com/kubernetes/helm
+sources:
+    - https://hub.docker.com/_/nginx/
+maintainers:
+    - name: shilpa
+      email: shilpasentini14@gmail.com
